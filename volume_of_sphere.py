@@ -6,9 +6,9 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ... 	volume = (4 / 3) * pi * radius * radius * radius
 ... 	return volume
 ... 
-... radius1 = 50
+... radius1 = 30
 ... volume1 = calculate_volume_of_sphere(radius1)
 ... print(f"The volume of a sphere with radius {radius1} is: {volume1}")
 ... 
-... radius2 = 100
+... radius2 = 40
 ... volume2 = calculate_volume_of_sphere(radius2)
